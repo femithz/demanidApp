@@ -1,5 +1,7 @@
 {
   "name": "demandIdApp",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
